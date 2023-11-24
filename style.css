@@ -35,7 +35,7 @@ img {
     opacity: 0;
 }
 #menu__toggle:checked ~ .menu__box {
-    right: 0 !important;
+    display: none;
 }
 .menu__btn {
     padding-right: 25px;
